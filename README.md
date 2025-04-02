@@ -6,6 +6,9 @@
 
 Ever wondered how search trends evolve over time? This Google Trends Analytics Dashboard provides real-time insights using the Google Trends API and a custom Figma-designed interface! The project blends data, design, and interactivity, making trend analysis more intuitive than ever.
 
+## 🎥 Live Demo
+Watch the live demo here: [Google Trends Dashboard Demo](https://github.com/khushal728/Google_Trends_Dashboard/issues/1#issue-2965792438)
+
 ## 🛠 Tech Stack & Tools Used
 
 ✅ Google Trends API – Fetching real-time trending search data.
