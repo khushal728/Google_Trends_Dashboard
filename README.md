@@ -17,7 +17,7 @@ Watch the live demo here: [Google Trends Dashboard Demo](https://github.com/khus
 
 ✅ Python (requests, pandas, matplotlib, seaborn) – Data retrieval, processing, and visualization.
 
-✅ Streamlit – Used for building an interactive web-based dashboard.
+✅ Power BI  – Used for building an interactive dashboard.
 
 ✅ REST APIs – Integrated data sources dynamically.
 
