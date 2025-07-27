@@ -37,7 +37,7 @@ Watch the live demo here: [Google Trends Dashboard Demo](https://github.com/khus
 
 💡 Topic Clustering – Identify similar trending topics using NLP techniques.
 
-## 🚀 Challenges & Solutions
+## 🚀 Challenges & Solutions.
 
 🔴 API Rate Limits – Implemented caching to minimize unnecessary API calls.
 
