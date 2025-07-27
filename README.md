@@ -1,4 +1,4 @@
-# Google Trends Analytics Dashboard
+# Google Trends Analytics Dashboard.
 
 ## 📊 Unveiling Google Trends Insights with a Custom Dashboard
 
