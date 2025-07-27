@@ -2,7 +2,7 @@
 
 ## 📊 Unveiling Google Trends Insights with a Custom Dashboard.
 
-## 🔍 Overview
+## 🔍 Overview.
 
 Ever wondered how search trends evolve over time? This Google Trends Analytics Dashboard provides real-time insights using the Google Trends API and a custom Figma-designed interface! The project blends data, design, and interactivity, making trend analysis more intuitive than ever.
 
